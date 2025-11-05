@@ -1,7 +1,5 @@
-*isto é italico*
+*Isto é itálico.*
 
+**Isto é negrito.**
 
-** isto é italico **
-
-
-adicionei novo conteudo
+Adicionei novo conteúdo.
