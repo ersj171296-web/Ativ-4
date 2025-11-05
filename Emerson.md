@@ -2,6 +2,5 @@
 
 **Isto é negrito.**
 
-Isso é um teste
+Isto é um teste.
 
-Já posso fugir?
